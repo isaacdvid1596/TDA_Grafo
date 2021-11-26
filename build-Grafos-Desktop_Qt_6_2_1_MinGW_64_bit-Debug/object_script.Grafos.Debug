@@ -1,0 +1,11 @@
+debug/arista.o
+debug/button.o
+debug/circulovertice.o
+debug/dijkstra.o
+debug/dragwidget.o
+debug/grafo.o
+debug/infomostrar.o
+debug/informationPrim.o
+debug/main.o
+debug/vertice.o
+debug/moc_button.o
